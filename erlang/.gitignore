@@ -1,0 +1,11 @@
+_build/
+.exercism/
+.eunit/
+.rebar/
+test/
+*.dag
+*.beam
+*.app
+*.app.src
+*.config
+rebar3
